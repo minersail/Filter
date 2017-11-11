@@ -1,0 +1,1 @@
+$("img").attr("src", "https://www.cs.umd.edu/users/pugh/fireEating.jpg");
